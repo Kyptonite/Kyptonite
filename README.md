@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kyptonite
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on making a website with a database that uses Azure
 - 📫 How to reach me: Message me at my email: adrianpauldelosreyes@gmail.com
 - 😄 Pronouns: He/Him
